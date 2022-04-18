@@ -1,5 +1,6 @@
 theme: minima
-title: The Titleist Title
+skin: solarized
+title: Project Title
 author: Me Me Me
 email: my-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -7,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   It goes on and on and on.
 
 # social links
-twitter_username: my-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  my-github-handle # DO NOT include the @ character, or else the build will fail!
+# twitter_username: my-twitter-handle # DO NOT include the @ character, or else the build will fail!
+# github_username:  my-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
